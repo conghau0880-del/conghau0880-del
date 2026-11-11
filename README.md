@@ -28,10 +28,6 @@ mã nguồn rõ ràng, tài liệu dễ hiểu và khả năng cộng tác hiệ
 - Thực hành quản lý mã nguồn, làm việc nhóm với Git và GitHub.
 - Chuyển kiến thức trên lớp thành những dự án có thể chạy và đánh giá.
 
-## Dự án đang phát triển
-
-### [Trí tuệ nhân tạo](https://github.com/conghau0880-del/tri-tue-nhan-tao)
-
 Dự án học phần — nơi xây dựng và chia sẻ mã nguồn, tài liệu,
 hướng dẫn cài đặt và kết quả thử nghiệm của nhóm.
 
